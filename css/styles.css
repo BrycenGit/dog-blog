@@ -1,7 +1,10 @@
-.important {
-  color: red;
+.dark-background {
+  background-color: black;
+  color: white;
 }
 
-.unimportant {
-  color: green;
+.light-background {
+  background-color: white;
+  color: black;
+
 }
